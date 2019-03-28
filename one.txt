@@ -1,24 +1,19 @@
- hi iam doing cherry
+hi iam doing cherry
  11111
  22222
  33333
  44444
- 
 11111
- 
-22222
- 
-33333
- 
-44444
-
-55555
-
+ 22222
+ 33333
+ 44444
+ 55555
 66666
-
 77777
 88888
 99999
 00000
 1111111
-
+change are made by squesh
+1 commit
+2 commit
